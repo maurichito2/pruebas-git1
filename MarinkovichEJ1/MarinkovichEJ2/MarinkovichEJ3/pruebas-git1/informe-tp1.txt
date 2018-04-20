@@ -1,0 +1,16 @@
+* commit f2c355d78f5876785aeac27e1cf8ceeb8a0f2485 (HEAD -> master)
+| Author: Marinkovich Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 15:25:30 2018 -0300
+| 
+|     Commit Python
+| 
+* commit 74bbf4f5d9c0dd0139ccb5f07d9e96a9f27e54f2 (origin/master, origin/HEAD)
+  Author: maurichito2 <38568676+maurichito2@users.noreply.github.com>
+  Date:   Fri Apr 20 14:53:39 2018 -0300
+  
+      Initial commit
+f2c355d HEAD@{0}: merge codigo: Fast-forward
+74bbf4f HEAD@{1}: checkout: moving from codigo to master
+f2c355d HEAD@{2}: commit: Commit Python
+74bbf4f HEAD@{3}: checkout: moving from master to codigo
+74bbf4f HEAD@{4}: clone: from https://github.com/maurichito2/pruebas-git1.git
