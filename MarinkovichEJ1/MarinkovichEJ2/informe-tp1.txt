@@ -1,0 +1,18 @@
+* commit eab1ddc101e93f8cfd5a89b435f5157ee17b1d5b (HEAD -> master)
+| Author: Marinkovich Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 15:13:23 2018 -0300
+| 
+|     Commit de Python
+| 
+* commit 24561980c8d33fbe0c044b2f390d7bdd62dcb17c
+  Author: Marinkovich Mauricio <maumarinkovich@gmail.com>
+  Date:   Fri Apr 20 15:10:56 2018 -0300
+  
+      Commit 1
+eab1ddc HEAD@{0}: checkout: moving from codigo to master
+eab1ddc HEAD@{1}: checkout: moving from master to codigo
+eab1ddc HEAD@{2}: merge codigo: Fast-forward
+2456198 HEAD@{3}: checkout: moving from codigo to master
+eab1ddc HEAD@{4}: commit: Commit de Python
+2456198 HEAD@{5}: checkout: moving from master to codigo
+2456198 HEAD@{6}: commit (initial): Commit 1
