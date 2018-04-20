@@ -1,0 +1,79 @@
+* commit e47bc5dc9a8f3632285b68abbd6713598bb6a887 (cena_viernes)
+| Author: Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 13:08:19 2018 -0300
+| 
+|     Commirt Cena Viernes Punto J
+| 
+* commit 90096372f137ddfa4ee8a34956cb53bcae51fa99
+| Author: Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 13:01:59 2018 -0300
+| 
+|     Segundo commit a cena viernes
+| 
+* commit 195efb06f7f1ebe082357e745c158060fd37c035
+| Author: Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 12:46:08 2018 -0300
+| 
+|     Commit cena_viernes
+|   
+| * commit 9fa17ff21706e5e1e4d140053cf5d37165a91543 (HEAD -> master)
+| | Author: Mauricio <maumarinkovich@gmail.com>
+| | Date:   Fri Apr 20 13:04:51 2018 -0300
+| | 
+| |     Commit Master Punto J
+| | 
+| * commit fcd321cc3d9179835d6125dda2280b9ed6f83ca2
+|/  Author: Mauricio <maumarinkovich@gmail.com>
+|   Date:   Fri Apr 20 12:48:23 2018 -0300
+|   
+|       Commit Punto H
+| 
+* commit c8429097d7fbcaa9d8b65515abefbc40baced63a
+| Author: Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 12:42:09 2018 -0300
+| 
+|     Tercer Commit
+| 
+* commit a02f8b58da66b89636ee7da5255af8dc9fa852f4
+| Author: Mauricio <maumarinkovich@gmail.com>
+| Date:   Fri Apr 20 12:39:59 2018 -0300
+| 
+|     Segundo Commit
+| 
+* commit fbc64c0201010851e05652cf01044c466d5b50a6
+  Author: Mauricio <maumarinkovich@gmail.com>
+  Date:   Fri Apr 20 12:38:37 2018 -0300
+  
+      Primer Commit
+9fa17ff HEAD@{0}: checkout: moving from master to master
+9fa17ff HEAD@{1}: checkout: moving from master to master
+9fa17ff HEAD@{2}: checkout: moving from master to master
+9fa17ff HEAD@{3}: checkout: moving from cena_viernes to master
+e47bc5d HEAD@{4}: commit: Commirt Cena Viernes Punto J
+9009637 HEAD@{5}: checkout: moving from master to cena_viernes
+9fa17ff HEAD@{6}: commit: Commit Master Punto J
+fcd321c HEAD@{7}: checkout: moving from master to master
+fcd321c HEAD@{8}: checkout: moving from master to master
+fcd321c HEAD@{9}: checkout: moving from cena_viernes to master
+9009637 HEAD@{10}: commit: Segundo commit a cena viernes
+195efb0 HEAD@{11}: checkout: moving from master to cena_viernes
+fcd321c HEAD@{12}: checkout: moving from master to master
+fcd321c HEAD@{13}: checkout: moving from master to master
+fcd321c HEAD@{14}: checkout: moving from master to master
+fcd321c HEAD@{15}: checkout: moving from master to master
+fcd321c HEAD@{16}: checkout: moving from cena_viernes to master
+195efb0 HEAD@{17}: checkout: moving from master to cena_viernes
+fcd321c HEAD@{18}: checkout: moving from master to master
+fcd321c HEAD@{19}: checkout: moving from master to master
+fcd321c HEAD@{20}: checkout: moving from master to master
+fcd321c HEAD@{21}: checkout: moving from master to master
+fcd321c HEAD@{22}: checkout: moving from master to master
+fcd321c HEAD@{23}: checkout: moving from cena_viernes to master
+195efb0 HEAD@{24}: checkout: moving from master to cena_viernes
+fcd321c HEAD@{25}: commit: Commit Punto H
+c842909 HEAD@{26}: checkout: moving from cena_viernes to master
+195efb0 HEAD@{27}: commit: Commit cena_viernes
+c842909 HEAD@{28}: checkout: moving from master to cena_viernes
+c842909 HEAD@{29}: commit: Tercer Commit
+a02f8b5 HEAD@{30}: commit: Segundo Commit
+fbc64c0 HEAD@{31}: commit (initial): Primer Commit
